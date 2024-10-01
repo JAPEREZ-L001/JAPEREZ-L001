@@ -2,13 +2,13 @@
 <h1 align="center">¡Hola! 👋 Soy Josué López</h1>
 
 <!-- Imagen de banner -->
-<p align="center">
+ <!-- <p align="center">
   <img src="https://via.placeholder.com/800x200" alt="Banner de bienvenida">
-</p>
+</p> -->
 
 <!-- Breve introducción -->
 <p align="center">
-  Soy un desarrollador apasionado por la tecnología, el código limpio y las soluciones innovadoras. 🚀<br>
+  Solamente un desarrollador con más café que sangre 🚀<br>
   Actualmente trabajando en Proyectos de .NET.
 </p>
 
@@ -22,8 +22,8 @@
 <!-- Sección "Acerca de mí" -->
 ## 🌟 Acerca de mí
 
-- 👨‍💻 Actualmente estoy trabajando en Proyectos de .NET
-- 🔭 Siempre aprendiendo sobre Programación
+- ✅ Técnico Vocacional en Desarrollo de Software
+- 📌 Ingenieria en Ciencias de la Computación Cooming Soon 
 - 🌱 Actualmente estoy explorando C#
 
 ---
@@ -47,6 +47,6 @@
 
 
 <!-- Imagen final o algún mensaje inspirador -->
-<p align="center">
+ <!-- <p align="center">
   <img src="https://via.placeholder.com/400x100" alt=" Cuando trabajo con hombres de oficio mo suele llenarme un simple: lo logramos">
-</p>
+</p> -->
