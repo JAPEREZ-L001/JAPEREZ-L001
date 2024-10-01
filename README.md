@@ -1,16 +1,52 @@
-## Hi there 👋
+<!-- Encabezado principal -->
+<h1 align="center">¡Hola! 👋 Soy Josué López</h1>
 
-<!--
-**JAPEREZ-L001/JAPEREZ-L001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Imagen de banner -->
+<p align="center">
+  <img src="https://via.placeholder.com/800x200" alt="Banner de bienvenida">
+</p>
 
-Here are some ideas to get you started:
+<!-- Breve introducción -->
+<p align="center">
+  Soy un desarrollador apasionado por la tecnología, el código limpio y las soluciones innovadoras. 🚀<br>
+  Actualmente trabajando en Proyectos de .NET.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Sección de redes sociales -->
+<p align="center">
+  <a href="https://github.com/JAPEREZ-L001-github/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+<!-- Sección "Acerca de mí" -->
+## 🌟 Acerca de mí
+
+- 👨‍💻 Actualmente estoy trabajando en Proyectos de .NET
+- 🔭 Siempre aprendiendo sobre Programación
+- 🌱 Actualmente estoy explorando C#
+
+---
+
+<!-- Sección de habilidades -->
+## 🛠️ Habilidades
+
+### Lenguajes y Herramientas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Community_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Community 2022">
+  <img src="https://img.shields.io/badge/SQL_Server_Express_2022-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Express 2022">
+  <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Basic">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+</p>
+
+---
+
+
+
+<!-- Imagen final o algún mensaje inspirador -->
+<p align="center">
+  <img src="https://via.placeholder.com/400x100" alt=" Cuando trabajo con hombres de oficio mo suele llenarme un simple: lo logramos">
+</p>
