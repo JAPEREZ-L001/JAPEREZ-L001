@@ -24,6 +24,7 @@
 
 - ✅ Técnico Vocacional en Desarrollo de Software
 - 📌 Ingenieria en Ciencias de la Computación Cooming Soon 
+- 📌 Ténico Superior Univrsitario en Ciberseguridad Cooming Soon
 - 🌱 Actualmente estoy explorando C#
 
 ---
