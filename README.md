@@ -42,6 +42,15 @@
   <!-- C# -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  
   <!-- Visual Studio Enterprise 2022 -->
   <img src="https://img.shields.io/badge/Visual%20Studio%20Enterprise%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Enterprise 2022">
   
@@ -77,4 +86,5 @@
 
 ## 🚀 Frase personal
 
-> *“Si te funciona no lo arruines.”*  
+> *“Si te funciona no lo arruines.”*
+
