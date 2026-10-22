@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/JAPEREZ-L001">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFB545&background=00000000&center=true&vCenter=true&width=650&lines=Backend+Developer;Construyendo+APIs+con+.NET+y+Python;Explorando+LLMs+y+Machine+Learning;Ciberseguridad+en+progreso...;git+commit+-m+%22just+code%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=34D399&background=00000000&center=true&vCenter=true&width=650&lines=Backend+Developer;Construyendo+APIs+con+.NET+y+Python;Explorando+LLMs+y+Machine+Learning;Ciberseguridad+en+progreso...;git+commit+-m+%22just+code%22" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## `$ whoami`
+## Sobre mí
 
 - ✅ Técnico Vocacional en Desarrollo de Software.
 - 🎓 Ingeniería en Ciencias de la Computación *coming soon*.
@@ -113,49 +113,45 @@
 
 ---
 
-## 🕹️ SAVE FILE
+## Estado actual
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  SAVE FILE #01                            [ CONTINUE? ]  │
-│                                                            │
-│  PLAYER  : Josué "Shaddy" Pérez López                     │
-│  CLASS   : Backend Developer                              │
-│  QUEST   : Ing. en Ciencias de la Computación (en curso)  │
-│  PARTY   : .NET · Python · React/Next.js · Supabase       │
-└──────────────────────────────────────────────────────────┘
-```
+| | |
+|---|---|
+| **Nombre** | Josué "Shaddy" Pérez López |
+| **Rol** | Backend Developer |
+| **Formación** | Ing. en Ciencias de la Computación (en curso) |
+| **Stack principal** | .NET · Python · React/Next.js · Supabase |
 
-### 📊 STATUS
+### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/JAPEREZ-L001?label=FOLLOWERS&style=for-the-badge&color=FFB545&labelColor=0D1117&logo=github&logoColor=white" alt="Followers">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJAPEREZ-L001&label=REPOS&query=%24.public_repos&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Repos públicos">
-  <img src="https://komarev.com/ghpvc/?username=JAPEREZ-L001&label=CONTINUES&color=3FB950&style=for-the-badge" alt="Visitas al perfil">
+  <img src="https://img.shields.io/github/followers/JAPEREZ-L001?label=FOLLOWERS&style=for-the-badge&color=34D399&labelColor=0D0D0D&logo=github&logoColor=white" alt="Followers">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJAPEREZ-L001&label=REPOS&query=%24.public_repos&style=for-the-badge&color=00C6C9&labelColor=0D0D0D" alt="Repos públicos">
+  <img src="https://komarev.com/ghpvc/?username=JAPEREZ-L001&label=CONTINUES&color=34D399&style=for-the-badge" alt="Visitas al perfil">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAPEREZ-L001&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB545&icon_color=58A6FF&text_color=C9D1D9" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAPEREZ-L001&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=34D399&icon_color=00C6C9&text_color=f8f8f8" alt="Estadísticas de GitHub">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAPEREZ-L001&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB545&text_color=C9D1D9" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAPEREZ-L001&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=34D399&text_color=f8f8f8" alt="Lenguajes más usados">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAPEREZ-L001&hide_border=true&background=0D1117&ring=FFB545&fire=FFB545&currStreakLabel=FFB545&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAPEREZ-L001&hide_border=true&background=0d0d0d&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=8f8f8f&currStreakNum=f8f8f8&sideNums=f8f8f8&dates=8f8f8f" alt="GitHub Streak">
 </p>
 
-### 🏆 ACHIEVEMENTS UNLOCKED
+### 🏆 Trofeos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JAPEREZ-L001&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="Trofeos">
+  <img src="https://github-profile-trophy.vercel.app/?username=JAPEREZ-L001&no-frame=true&row=1&column=7&margin-w=8&title_color=34D399&icon_color=00C6C9&text_color=f8f8f8&background=0D0D0D" alt="Trofeos">
 </p>
 
-### 🗺️ ACTIVITY MAP
+### 🗺️ Actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAPEREZ-L001&custom_title=ACTIVITY%20MAP&bg_color=0D1117&color=FFB545&line=58A6FF&point=E6EDF3&area_color=1F6FEB&area=true&hide_border=true" alt="Gráfico de actividad">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAPEREZ-L001&custom_title=ACTIVIDAD&bg_color=0d0d0d&color=34D399&line=00C6C9&point=f8f8f8&area_color=34D399&area=true&hide_border=true" alt="Gráfico de actividad">
 </p>
 
 ---
@@ -164,10 +160,10 @@
 
 <p align="center">
   <a href="https://github.com/JAPEREZ-L001/computer-science-hub-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAPEREZ-L001&repo=computer-science-hub-lab&hide_border=true&bg_color=0D1117&title_color=FFB545&icon_color=58A6FF&text_color=C9D1D9" alt="Computer Science Hub — Lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAPEREZ-L001&repo=computer-science-hub-lab&hide_border=true&bg_color=0d0d0d&title_color=34D399&icon_color=00C6C9&text_color=f8f8f8" alt="Computer Science Hub — Lab">
   </a>
   <a href="https://github.com/JAPEREZ-L001/computer-science-hub-wiki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAPEREZ-L001&repo=computer-science-hub-wiki&hide_border=true&bg_color=0D1117&title_color=FFB545&icon_color=58A6FF&text_color=C9D1D9" alt="Computer Science Hub — Wiki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAPEREZ-L001&repo=computer-science-hub-wiki&hide_border=true&bg_color=0d0d0d&title_color=34D399&icon_color=00C6C9&text_color=f8f8f8" alt="Computer Science Hub — Wiki">
   </a>
 </p>
 
