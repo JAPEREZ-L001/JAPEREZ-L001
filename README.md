@@ -1,183 +1,19 @@
-<!-- ============================================================ -->
-<!--                     HERO / BANNER                            -->
-<!-- ============================================================ -->
+<!-- Generado por scripts/render_profile.py a partir del diseño del perfil. No editar a mano: edita el script y vuelve a ejecutarlo. -->
 
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Josué Pérez López" width="100%">
-</p>
+<div>
+<img src="assets/readme/banner.png" alt="Josué Adonaí Pérez López — Desarrollador Full Stack · Ciberseguridad. Stack: React, TypeScript, C#/.NET, PostgreSQL, SQL Server. San Salvador, El Salvador." width="100%" align="top"><br>
+<a href="#sobre-mi"><img src="assets/readme/nav-sobre-mi.png" alt="sobre-mí" width="11.372%" align="top"></a><a href="#experiencia"><img src="assets/readme/nav-experiencia.png" alt="experiencia" width="14.161%" align="top"></a><a href="#proyectos"><img src="assets/readme/nav-proyectos.png" alt="proyectos" width="12.302%" align="top"></a><a href="#stack"><img src="assets/readme/nav-stack.png" alt="stack" width="8.580%" align="top"></a><a href="#orgs"><img src="assets/readme/nav-orgs.png" alt="orgs" width="5.584%" align="top"></a><img src="assets/readme/nav-spacer.png" alt="" width="11.977%" align="top"><a href="https://github.com/JAPEREZ-L001"><img src="assets/readme/badge-github.png" alt="Github" width="11.125%" align="top"></a><a href="mailto:japereze25@gmail.com"><img src="assets/readme/badge-email.png" alt="Email" width="10.950%" align="top"></a><a href="https://www.linkedin.com/in/josu%C3%A9-adona%C3%AD-p%C3%A9rez-l%C3%B3pez-6666193a8"><img src="assets/readme/badge-linkedin.png" alt="Linkedin" width="13.800%" align="top"></a><br>
+<img src="assets/readme/highlights.png" alt="Desde 2022 construyendo software en gobierno, educación, salud y startup · 6 roles de desarrollo y soporte técnico · 7 hallazgos de seguridad en una auditoría RLS de 8 tablas" width="100%" align="top"><br>
+<a id="sobre-mi"></a><img src="assets/readme/sobre-mi.png" alt="Sobre mí: Desarrollador Full Stack con experiencia desde 2022 y la ciberseguridad como diferenciador. Formación: Bachillerato Técnico Vocacional en Desarrollo de Software (2022–2024), Técnico Superior Universitario en Ciberseguridad en ESIT (2024–2026), Ingeniería en Ciencias de la Computación en la UDB (2025–2029)." width="100%" align="top"><br>
+<a id="experiencia"></a><img src="assets/readme/experiencia.png" alt="Experiencia: Desarrollador Full Stack en Haiku (feb 2026 – hoy); Soporte Técnico Nivel 1 en HES · DoctorSV (jun 2026 – hoy); Desarrollador / Soporte TIC en Universidad Don Bosco (2025); Desarrollador en Tribunal Supremo Electoral (2024); Desarrollador Full Stack en MINDEL (2023); Desarrollador en Colegio El Espíritu Santo (2022)" width="100%" align="top"><br>
+<a id="proyectos"></a><img src="assets/readme/proyectos.png" alt="Proyectos destacados: ShiftSyncMega — Herramienta para consultar los horarios de turnos de un equipo con 5 sedes. Lee una Google Sheet sin modificarla y filtra por sede y rol.; Computer Science Hub — Plataforma web de la primera comunidad estudiantil de Ciencias de la Computación de la Universidad Don Bosco, que fundé y organizo." width="100%" align="top"><br>
+<a id="stack"></a><img src="assets/readme/stack.png" alt="Stack: Principales: React, TypeScript, JavaScript, C#, .NET, Node.js, PostgreSQL, SQL Server, Supabase, Git; Adicionales: Python, PHP, Visual Basic, Express, Tailwind CSS, DevExpress, WPF/XAML, MySQL, PowerShell, Zod, Vite, Vercel, Java, HTML/CSS, Bootstrap, Bash; Seguridad: Row Level Security, Supabase Vault, Auditoría de accesos, Nmap, Wireshark; Linux: Ubuntu, Parrot OS, Arch Linux; Calidad: TestSprite, Pruebas de regresión; Soporte y gestión: ServiceDesk Plus, Jira Service Mgmt, PMBOK, ADRs" width="100%" align="top"><br>
+<img src="assets/readme/stats.png" alt="Actividad en GitHub: 471 contribuciones totales. Lenguajes más usados: TypeScript 37.62%, C# 33.91%, HTML 24.42%, CSS 3.22%, PL/pgSQL 0.81%, JavaScript 0.02%" width="100%" align="top"><br>
+<a id="orgs"></a><img src="assets/readme/orgs.png" alt="Organizaciones: el trabajo vive repartido por organización según su contexto, no suelto en mi cuenta personal." width="100%" align="top"><br>
+<a href="https://github.com/software-insight"><img src="assets/readme/org-0.png" alt="Farsight: Proyectos propios con alcance de producto real." width="50%" align="top"></a><a href="https://github.com/doctor-sv"><img src="assets/readme/org-1.png" alt="DoctorSV: Plataforma de salud y telemedicina." width="50%" align="top"></a><br><a href="https://github.com/Computer-Sciencie-Hub"><img src="assets/readme/org-2.png" alt="Computer Science Hub: Comunidad de Ing. en Ciencias de la Computación de la UDB: acompañamiento académico entre pares, organización estudiantil y proyección profesional." width="50%" align="top"></a><a href="https://github.com/udb-sv"><img src="assets/readme/org-3.png" alt="Universidad Don Bosco: Proyectos y trabajos de cátedra de la etapa universitaria." width="50%" align="top"></a><br><a href="https://github.com/cees-sv"><img src="assets/readme/org-4.png" alt="Colegio El Espíritu Santo: Proyectos de la etapa de Técnico Vocacional en Desarrollo de Software." width="50%" align="top"></a><a href="https://github.com/delirios-creativos"><img src="assets/readme/org-5.png" alt="Delirios Creativos: Experimentos, prototipos y delirios sin utilidad declarada." width="50%" align="top"></a><br>
+<img src="assets/readme/frase.png" alt="Frase personal: Si te funciona no lo arruines." width="100%" align="top">
+</div>
 
----
+<div align="center"><a href="mailto:japereze25@gmail.com"><img src="assets/readme/link-email.png" alt="japereze25@gmail.com" width="21.191%" align="top"></a><img src="assets/readme/link-sep1.png" alt="/" width="3.515%" align="top"><a href="https://github.com/JAPEREZ-L001"><img src="assets/readme/link-github.png" alt="@JAPEREZ-L001" width="14.678%" align="top"></a><img src="assets/readme/link-sep2.png" alt="/" width="3.515%" align="top"><a href="https://www.linkedin.com/in/josu%C3%A9-adona%C3%AD-p%C3%A9rez-l%C3%B3pez-6666193a8"><img src="assets/readme/link-linkedin.png" alt="LinkedIn" width="7.443%" align="top"></a></div>
 
-## Sobre mí
-
-- ✅ Técnico Vocacional en Desarrollo de Software.
-- 🎓 Ingeniería en Ciencias de la Computación *coming soon*.
-- 🛡️ Técnico Superior Universitario en Ciberseguridad *coming soon*.
-- 💡 Actualmente trabajando en proyectos con **.NET**, **React/Next.js** y desarrollando en **Python**.
-- 🤖 Explorando el fascinante mundo del **Machine Learning**, especialmente la creación y experimentación con **LLM (Large Language Models)** y **LSM (Large State/Sequence Models)**.
-- 📊 Análisis de datos y modelado matemático con **MATLAB**.
-
-<p align="center">
-  <a href="https://github.com/JAPEREZ-L001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:japereze25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-## Stack
-
-### Lenguajes
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Basic">
-</p>
-
-### Frontend & UI
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI">
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui">
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-### Backend, datos y formularios
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno">
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form">
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query">
-</p>
-
-### IA / Machine Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API">
-  <img src="https://img.shields.io/badge/LLM%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="LLM / Machine Learning">
-</p>
-
-### Bases de datos
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server%20Express%202022-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Express 2022">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-</p>
-
-### Testing
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
-</p>
-
-### Herramientas y entornos
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Enterprise%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio Enterprise 2022">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate%202024-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA Ultimate 2024">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/MATLAB%20R2024B-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB R2024B">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/ServiceDesk%20Plus%20(SDP)-F58220?style=for-the-badge&logo=zoho&logoColor=white" alt="ManageEngine ServiceDesk Plus — ticketera">
-  <img src="https://img.shields.io/badge/Atlassian%20Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Atlassian Jira — ticketera">
-</p>
-
----
-
-## Estado actual
-
-| | |
-|---|---|
-| **Nombre** | Josué "Shaddy" Pérez López |
-| **Formación** | Ing. en Ciencias de la Computación (en curso) |
-| **Áreas** | Software · Ciberseguridad · IA aplicada · Datos |
-| **Stack principal** | .NET · Python · React/Next.js · Supabase |
-
-### Estadísticas
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/JAPEREZ-L001?label=FOLLOWERS&style=for-the-badge&color=34D399&labelColor=0D0D0D&logo=github&logoColor=white" alt="Followers">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJAPEREZ-L001&label=REPOS&query=%24.public_repos&style=for-the-badge&color=00C6C9&labelColor=0D0D0D" alt="Repos públicos">
-  <img src="https://komarev.com/ghpvc/?username=JAPEREZ-L001&label=CONTINUES&color=34D399&style=for-the-badge" alt="Visitas al perfil">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAPEREZ-L001&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=34D399&icon_color=00C6C9&text_color=f8f8f8" alt="Estadísticas de GitHub">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAPEREZ-L001&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=34D399&text_color=f8f8f8" alt="Lenguajes más usados">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAPEREZ-L001&hide_border=true&background=0d0d0d&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=8f8f8f&currStreakNum=f8f8f8&sideNums=f8f8f8&dates=8f8f8f" alt="GitHub Streak">
-</p>
-
-### Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JAPEREZ-L001&no-frame=true&row=1&column=7&margin-w=8&title_color=34D399&icon_color=00C6C9&text_color=f8f8f8&background=0D0D0D" alt="Trofeos">
-</p>
-
-### Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAPEREZ-L001&custom_title=ACTIVIDAD&bg_color=0d0d0d&color=34D399&line=00C6C9&point=f8f8f8&area_color=34D399&area=true&hide_border=true" alt="Gráfico de actividad">
-</p>
-
----
-
-## Organizaciones
-
-El trabajo vive repartido por organización según su contexto, no suelto en mi cuenta personal.
-
-| Organización | Qué contiene |
-|---|---|
-| [**Software Insight**](https://github.com/software-insight) | Proyectos propios con alcance de producto real. |
-| [**DoctorSV**](https://github.com/doctor-sv) | Plataforma de salud y telemedicina. |
-| [**Computer Science Hub**](https://github.com/Computer-Sciencie-Hub) | Plataforma de referencia para la comunidad de Ing. en Ciencias de la Computación de la Universidad Don Bosco: acompañamiento académico entre pares, organización estudiantil y proyección profesional. |
-| [**Universidad Don Bosco**](https://github.com/udb-sv) | Proyectos y trabajos de cátedra de la etapa universitaria. |
-| [**Colegio El Espíritu Santo**](https://github.com/cees-sv) | Proyectos de la etapa de Técnico Vocacional en Desarrollo de Software. |
-| [**Delirios Creativos**](https://github.com/delirios-creativos) | Experimentos, prototipos y delirios sin utilidad declarada. |
-
----
-
-## Frase personal
-
-> *"Si te funciona no lo arruines."*
-
----
-
-## Contacto
-
-- 📧 Email: **japereze25@gmail.com**
-- 🐙 GitHub: **[@JAPEREZ-L001](https://github.com/JAPEREZ-L001)**
-
-<p align="center">
-  <i>⭐ De <a href="https://github.com/JAPEREZ-L001">JAPEREZ-L001</a></i>
-</p>
+<div align="center"><img src="assets/readme/firma.png" alt="JL" width="100%" align="top"></div>

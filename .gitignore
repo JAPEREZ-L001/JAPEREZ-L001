@@ -1,0 +1,7 @@
+scripts/node_modules/
+scripts/package.json
+scripts/package-lock.json
+scripts/.render.html
+scripts/.preview.png
+scripts/.sizes.json
+__pycache__/

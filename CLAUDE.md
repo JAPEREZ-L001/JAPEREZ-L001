@@ -6,50 +6,35 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Este es el repositorio especial de perfil de GitHub de **JAPEREZ-L001** (un repo cuyo nombre coincide exactamente con el nombre de usuario). GitHub renderiza su `README.md` directamente en la página de perfil del usuario: https://github.com/JAPEREZ-L001
 
-No es una aplicación de software: no hay build, lint, tests ni dependencias que instalar. El contenido completo son dos archivos:
+## Cómo está construido el perfil (desde 2026-10)
 
-- `README.md` — el perfil que se muestra en GitHub.
-- `assets/profile-banner.svg` — banner SVG hecho a mano que se referencia desde el README.
+El perfil es una copia exacta de un diseño hecho en Claude Design ("Perfil GitHub JL"). Como GitHub no permite CSS en los README, el diseño se renderiza a imágenes:
 
-## Estructura del README
+- `scripts/render_profile.py` — **fuente de verdad**. Contiene todos los datos del perfil (experiencia, proyectos, stack, organizaciones, contacto) y el HTML/CSS del diseño. Lo renderiza con Chromium headless (Playwright), captura cada sección como PNG en `assets/readme/` y **regenera `README.md`**.
+- `assets/readme/*.png` — imágenes generadas (a 2x). No editarlas a mano.
+- `README.md` — generado. No editarlo a mano: cualquier cambio se pierde en la siguiente ejecución.
 
-El README está organizado en secciones delimitadas por comentarios HTML y encabezados `##`/`###`, en este orden:
+Para cambiar algo: edita los datos o el HTML en el script y ejecútalo:
 
-1. **Hero/banner** — imagen `assets/profile-banner.svg` + typing SVG animado (readme-typing-svg.demolab.com).
-2. **Sobre mí** — bullets de estado actual (estudios, stack, intereses).
-3. **🛠️ Stack** — badges de shields.io agrupados por categoría (Lenguajes, Frontend & UI, Backend/datos/formularios, IA/ML, Bases de datos, Testing, Herramientas y entornos).
-4. **Estado actual** — tabla con datos básicos (nombre, rol, formación, stack principal), seguida de widgets de estadísticas dinámicas (github-readme-stats, komarev visit counter, streak stats, trophy, activity graph), todos apuntando a `username=JAPEREZ-L001`.
-5. **🔥 Proyectos Destacados** — pins de repos vía github-readme-stats `/api/pin`, con enlaces a `github.com/JAPEREZ-L001/<repo>`.
-6. **Frase personal** y **Contacto**.
+```bash
+pip install playwright && python -m playwright install chromium
+npm install --prefix scripts @fontsource/jetbrains-mono @fontsource/space-grotesk @fontsource/silkscreen
+python scripts/render_profile.py
+```
 
-La estética (adoptada en 2026-10 a partir de la paleta real de Computer Science Hub —
-`Computer-Sciencie-Hub/computer-science-hub-wiki`, página "Diseño Visual") es "premium dark con
-glow sutil": fondo casi negro, acento emerald dominante, tipografía Montserrat, sin pixel-art ni
-framing de terminal/videojuego. Todo el contenido va en español salvo los nombres de
-tecnologías/badges.
+(`FONTS_DIR` y `CHROME_PATH` permiten apuntar a otras rutas de fuentes o de Chromium.)
 
-## Paleta de colores
+## Detalles del README que no hay que romper
 
-Tomada de la paleta *real* de CSH (la que efectivamente ve el visitante en `cshdevs.org`, no solo
-los tokens OKLCH declarados — ahí el acento dominante real es emerald, no el teal del token
-`--accent`):
+- Las piezas que deben ser enlaces se capturan por separado: navegación (`nav-*`, enlazan a anclas `<a id>`), badges de contacto (`badge-*`), celdas de organizaciones (`org-*`) y enlaces del pie (`link-*`). Sus anchos se escriben en porcentaje del ancho de diseño (774 px) para que escalen igual que las secciones completas.
+- Todas las imágenes llevan `align="top"`: evita el hueco de ~6 px que deja la línea de texto bajo una imagen en línea. No usar `align="left"`/`"right"`: GitHub les añade 20 px de padding.
+- `nav-spacer` empuja los badges al borde derecho de la fila de navegación.
+- Los espacios entre secciones van dentro de las propias imágenes (padding de 48 px), así que no hay que añadir `<br>` extra ni párrafos.
+- El script fija alturas enteras y separa los bloques antes de capturar para que ninguna imagen arrastre una fila de píxeles del bloque vecino.
 
-| Rol | Hex | Uso en este repo |
-|---|---|---|
-| Fondo | `#0d0d0d` | `bg_color`/`background` de todos los widgets dinámicos y banner |
-| Fondo hero | `#050505` | Variante más oscura para el glow del banner |
-| Texto | `#f8f8f8` | `text_color`/`point` de widgets, texto principal del banner |
-| Texto secundario | `#8f8f8f` | Texto atenuado (labels, `sideLabels`, `dates`) |
-| Acento primario | `#34d399` (emerald-400) | `title_color`/`color`/`ring`/`fire`, texto del rol en el banner |
-| Acento secundario | `#00c6c9` (teal, token oficial de CSH) | `icon_color`/`line`, divisor del banner |
-| Acento cálido | `#f6922e` | Toques puntuales (ej. el acento interior de la marca geométrica del banner) |
-| Borde | `#161616` | Bordes sutiles donde no se usa `hide_border` |
+## Estilo y contenido
 
-## Convenciones al editar
-
-- **Idioma**: todo el texto visible del README va en español (es el idioma del resto del contenido); los nombres de tecnologías, badges y URLs se mantienen en inglés/formato original.
-- **No eliminar información**: este README tiene historial de reorganizaciones que accidentalmente borraron contenido (badges, secciones de stats, la frase personal). Al reorganizar, mover/recolorear es válido; borrar un dato existente (badge, bullet, proyecto, contacto) no lo es salvo pedido explícito.
-- **Badges de stack**: usar el formato shields.io `for-the-badge` ya establecido, con los colores de marca nativos de cada tecnología (esos no se recolorean con la paleta del perfil).
-- **Widgets dinámicos**: todos los servicios de terceros (github-readme-stats, streak-stats, trophy, activity-graph, komarev) están fijados a `username=JAPEREZ-L001` — si se agregan nuevos, usar la paleta de la tabla de arriba.
-- **SVG del banner**: `assets/profile-banner.svg` usa un gradiente de fondo casi negro, un glow radial emerald con `feGaussianBlur`, y una marca geométrica propia (no es el isotipo de CSH, que es la marca distintiva de esa organización). Mantener el `viewBox="0 0 1200 280"` si se regenera. El `font-family` apunta a `'Montserrat', 'Segoe UI', sans-serif`: GitHub sanitiza SVGs embebidos y no carga fuentes externas, así que el texto cae al fallback del sistema — es una limitación conocida, no un bug.
-- Al añadir un nuevo repo destacado en "Proyectos Destacados", seguir el patrón existente: pin de github-readme-stats + badges de stack + lista de sub-repos (producción/testing/wiki) si aplica.
+- Estética: terminal oscura sobre el fondo de GitHub dark (`#0d1117`), superficie `#161b22`, bordes `#30363d`/`#21262d`, texto `#e6edf3`/`#c9d1d9`, atenuado `#8b949e`, un solo acento verde fósforo `#7ee787`. Tipografías: JetBrains Mono (cuerpo), Space Grotesk (títulos), Silkscreen (monograma "JL").
+- El contenido sigue el CV de Josué (experiencia, formación, stack por categorías). Las estadísticas de GitHub (471 contribuciones, lenguajes) son una foto estática: hay que actualizarlas a mano en el script.
+- Todo el texto visible va en español; nombres de tecnologías en su forma original.
+- No eliminar información (experiencia, proyectos, contacto, organizaciones) salvo pedido explícito.
